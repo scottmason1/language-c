@@ -3,6 +3,7 @@
   'c'
   'h.in'
   'xpm'
+  '$h'
 ]
 'firstLineMatch': '(?i)-\\*-[^*]*(Mode:\\s*)?C(\\s*;.*?)?\\s*-\\*-'
 'name': 'C'
